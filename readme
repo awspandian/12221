@@ -3,3 +3,5 @@ git commit
 git push
 git pull
 git commit -a
+
+git fetch
